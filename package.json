@@ -23,11 +23,7 @@
     "nlw",
     "next level week"
   ],
-  "author": "Jhonatan Hardt de Medeiros",
-  "repository": {
-    "url": "git+https://github.com/JhonatanMedeiros/nlw-expert-14-polls.git",
-    "type": "git"
-  },
+ 
   "license": "MIT",
   "dependencies": {
     "@fastify/cookie": "^9.3.1",
